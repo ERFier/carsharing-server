@@ -27,3 +27,9 @@ nbdist/
 .nb-gradle/
 
 # End of https://www.gitignore.io/api/netbeans,java
+/carsharing_server-ejb/target/
+/carsharing_server-web/target/
+/carsharing_server-ear/target/
+/target/
+
+nb-configuration.xml
